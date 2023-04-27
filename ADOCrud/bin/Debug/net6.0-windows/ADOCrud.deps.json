@@ -1,0 +1,142 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ADOCrud/1.0.0": {
+        "dependencies": {
+          "ADOCrud.Data": "1.0.0",
+          "MaterialDesignThemes": "4.8.0"
+        },
+        "runtime": {
+          "ADOCrud.dll": {}
+        }
+      },
+      "MaterialDesignColors/2.1.2": {
+        "runtime": {
+          "lib/net6.0/MaterialDesignColors.dll": {
+            "assemblyVersion": "2.1.2.0",
+            "fileVersion": "2.1.2.0"
+          }
+        }
+      },
+      "MaterialDesignThemes/4.8.0": {
+        "dependencies": {
+          "MaterialDesignColors": "2.1.2",
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.39"
+        },
+        "runtime": {
+          "lib/net6.0/MaterialDesignThemes.Wpf.dll": {
+            "assemblyVersion": "4.8.0.0",
+            "fileVersion": "4.8.0.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/6.0.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
+        "runtime": {
+          "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.39.4716"
+          }
+        }
+      },
+      "Npgsql/7.0.2": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Npgsql.dll": {
+            "assemblyVersion": "7.0.2.0",
+            "fileVersion": "7.0.2.0"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
+      "ADOCrud.Data/1.0.0": {
+        "dependencies": {
+          "ADOCrud.Domain": "1.0.0",
+          "Npgsql": "7.0.2"
+        },
+        "runtime": {
+          "ADOCrud.Data.dll": {}
+        }
+      },
+      "ADOCrud.Domain/1.0.0": {
+        "runtime": {
+          "ADOCrud.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ADOCrud/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MaterialDesignColors/2.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7hf7MLRB6JXHj+IOLh3z2L9yBr58QhgpWQXyvffAoWdSamVO+DMEp3DqdWds0R5Rf6dp9yQ9hYUZ+wSsVZG1nQ==",
+      "path": "materialdesigncolors/2.1.2",
+      "hashPath": "materialdesigncolors.2.1.2.nupkg.sha512"
+    },
+    "MaterialDesignThemes/4.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rJDuWrSIqK+sA/RvZlJTlPF9Yp2YBdEZdiDtSHG/CEumkqJPMSewGga2pWF9gnRHkS5D7UWPaRRmT11Wb7F2Cw==",
+      "path": "materialdesignthemes/4.8.0",
+      "hashPath": "materialdesignthemes.4.8.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/HggWBbTwy8TgebGSX5DBZ24ndhzi93sHUBDvP1IxbZD7FDokYzdAr6+vbWGjw2XAfR2EJ1sfKUotpjHnFWPxA==",
+      "path": "microsoft.extensions.logging.abstractions/6.0.0",
+      "hashPath": "microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8PZKqw9QOcu42xk8puY4P1+EXHL9YGOR9b7qhaYx5cILHul456H073tj99vyPcCt0W0781T9RwHqkx507ZyUpQ==",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.39",
+      "hashPath": "microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+    },
+    "Npgsql/7.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/k12hfmg4PI0IU2UTLN6n0s/FKUfox8+RdWtzgADYZoyks7GH82WLyXm27eeqatsi/nmiK9lO3HyULlTD87szg==",
+      "path": "npgsql/7.0.2",
+      "hashPath": "npgsql.7.0.2.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    },
+    "ADOCrud.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ADOCrud.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

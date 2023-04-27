@@ -1,0 +1,15 @@
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Data\bin\Debug\net6.0\ADOCrud.Data.deps.json
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Data\bin\Debug\net6.0\ADOCrud.Data.dll
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Data\bin\Debug\net6.0\ADOCrud.Data.pdb
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Data\bin\Debug\net6.0\ADOCrud.Domain.dll
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Data\bin\Debug\net6.0\ADOCrud.Domain.pdb
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Data\obj\Debug\net6.0\ADOCrud.Data.csproj.AssemblyReference.cache
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Data\obj\Debug\net6.0\ADOCrud.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Data\obj\Debug\net6.0\ADOCrud.Data.AssemblyInfoInputs.cache
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Data\obj\Debug\net6.0\ADOCrud.Data.AssemblyInfo.cs
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Data\obj\Debug\net6.0\ADOCrud.Data.csproj.CoreCompileInputs.cache
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Data\obj\Debug\net6.0\ADOCrud.Data.csproj.CopyComplete
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Data\obj\Debug\net6.0\ADOCrud.Data.dll
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Data\obj\Debug\net6.0\refint\ADOCrud.Data.dll
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Data\obj\Debug\net6.0\ADOCrud.Data.pdb
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Data\obj\Debug\net6.0\ref\ADOCrud.Data.dll

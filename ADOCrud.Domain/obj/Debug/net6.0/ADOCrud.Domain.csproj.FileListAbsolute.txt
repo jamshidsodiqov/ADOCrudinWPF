@@ -1,0 +1,12 @@
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Domain\bin\Debug\net6.0\ADOCrud.Domain.deps.json
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Domain\bin\Debug\net6.0\ADOCrud.Domain.dll
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Domain\bin\Debug\net6.0\ADOCrud.Domain.pdb
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Domain\obj\Debug\net6.0\ADOCrud.Domain.csproj.AssemblyReference.cache
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Domain\obj\Debug\net6.0\ADOCrud.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Domain\obj\Debug\net6.0\ADOCrud.Domain.AssemblyInfoInputs.cache
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Domain\obj\Debug\net6.0\ADOCrud.Domain.AssemblyInfo.cs
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Domain\obj\Debug\net6.0\ADOCrud.Domain.csproj.CoreCompileInputs.cache
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Domain\obj\Debug\net6.0\ADOCrud.Domain.dll
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Domain\obj\Debug\net6.0\refint\ADOCrud.Domain.dll
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Domain\obj\Debug\net6.0\ADOCrud.Domain.pdb
+D:\DOT-NET\WPF\ADOCrud\ADOCrud.Domain\obj\Debug\net6.0\ref\ADOCrud.Domain.dll
